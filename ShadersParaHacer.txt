@@ -1,0 +1,12 @@
+cambir el uv mapping de la hoja de crstal para que pueda puner color de un lado y del otro otro color y lo mismo con los cristales de los lados.
+
+espada de tierra corregir los uvmapings y hacer los shaders que ya tenia
+
+veneno hacer el uv mapping y hacer la textura que va a llevar la espada 
+
+oscuridad investigar como hacer el shader de hollo negro y de universo.
+
+empezar mi guion literario
+
+terminar la retopoligia.
+
