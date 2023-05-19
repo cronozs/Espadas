@@ -42,7 +42,9 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _MainColor: {r: 0.23584908, g: 0.23584908, b: 0.23584908, a: 0}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 0}
+    - _RotateForce: {r: 0, g: 3, b: 0, a: 0}
+    - _Rotation: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &4243238532182319063
 MonoBehaviour:
