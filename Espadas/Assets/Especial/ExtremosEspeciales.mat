@@ -68,9 +68,9 @@ Material:
     - _TopInfluence: 1
     m_Colors:
     - _ButtonColor: {r: 0, g: 0, b: 0, a: 0}
-    - _FresnelColor: {r: 0.27432215, g: 2.7706537, b: 5.2395535, a: 1}
+    - _FresnelColor: {r: 0.10972888, g: 0.76810217, b: 3.3055825, a: 1}
     - _FresnelNoicePower: {r: 1.5, g: 2, b: 0, a: 0}
-    - _GalaxyColor: {r: 0.041227803, g: 0, b: 2.3912125, a: 1}
+    - _GalaxyColor: {r: 0.012519438, g: 0, b: 0.30672622, a: 1}
     - _StarOffset: {r: 0.5, g: 0, b: 0, a: 0}
     - _StarsColor: {r: 57.037914, g: 55.843403, b: 0, a: 1}
     - _TopColor: {r: 0, g: 0, b: 0.24999997, a: 0}
